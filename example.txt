@@ -1,0 +1,4 @@
+gene_ID	3-AF1 binding site_count_Ns	3-AF1 binding site_count_Xm	3-AF1 binding site_present_Ns	3-AF1 binding site_present_Xm
+Lc1Ns012263_Lc1Xm056688	0	0	0	0
+Lc1Ns012271_Lc1Xm056683	0	0	0	0
+Lc1Ns012276_Lc1Xm056680	0	0	0	0
